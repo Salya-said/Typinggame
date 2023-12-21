@@ -1,1 +1,1 @@
-# Typinggame
+# typinggame
